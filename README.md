@@ -1,2 +1,2 @@
-# reactive-spring-crm
+# Prizma
 Customizable crm system for organizations
